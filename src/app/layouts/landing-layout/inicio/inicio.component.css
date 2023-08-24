@@ -1,0 +1,41 @@
+/* tu-componente.component.css */
+
+ .testimonials-slider {
+    position: relative;
+    margin-bottom: 160px;
+  }
+  .testimonial {
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    opacity: 0;
+    visibility: hidden;
+    transition: opacity 0.5s ease, visibility 0.5s ease;
+    padding-bottom: 20px;
+    /* transition: left 0.5s ease; */
+  }
+  .testimonial.active {
+    opacity: 1;
+    visibility: visible;
+  }
+  /* .review {
+    margin: 0 auto;
+    max-width: 600px; 
+  }
+   */
+  /* .review-user {
+    text-align: center; 
+  }
+  .review-user img {
+    display: block; 
+    margin: 0 auto; 
+  }  */
+
+  .apple:hover{
+    background-color: #047ebf;
+  }
+
+  .google:hover{
+    background-color: #04bf36;
+  }
