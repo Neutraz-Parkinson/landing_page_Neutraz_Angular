@@ -11,7 +11,8 @@ export class HeaderComponent {
 
   @HostListener('window:scroll', [])
   onWindowScroll() {
-    const number = window.pageYOffset || document.documentElement.scrollTop || document.body.scrollTop || 0;
+    // const number = window.pageYOffset || document.documentElement.scrollTop || document.body.scrollTop || 0;
+    const number = window.scrollY || document.documentElement.scrollTop || document.body.scrollTop || 0;
     if (number > 20) {
       this.isScrolled = true;
     } else {
