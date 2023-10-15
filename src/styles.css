@@ -313,8 +313,9 @@ html {
   .form-control {
     height: 48px;
     border-radius: 0;
-    border: 1px solid #dae0e5;
+    border: 1px solid #b61f57;
   }
+  
   .form-control:active, .form-control:focus {
     outline: none;
     box-shadow: none;

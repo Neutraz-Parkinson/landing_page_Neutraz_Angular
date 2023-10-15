@@ -1,0 +1,9 @@
+.inputF:focus {
+    outline: none; 
+    /* box-shadow: none;  */
+    box-shadow: 0 0 5px #BF0449;
+    /* border: 1px solid green; */
+    border:none;
+  }
+
+  
