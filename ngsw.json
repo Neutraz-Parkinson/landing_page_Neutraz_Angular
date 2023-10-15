@@ -1,0 +1,123 @@
+{
+  "configVersion": 1,
+  "timestamp": 1697360460533,
+  "index": "https://Neutraz-Parkinson.github.io/landing_page_Neutraz_Angular/index.html",
+  "assetGroups": [
+    {
+      "name": "app",
+      "installMode": "prefetch",
+      "updateMode": "prefetch",
+      "cacheQueryOptions": {
+        "ignoreVary": true
+      },
+      "urls": [
+        "https://Neutraz-Parkinson.github.io/landing_page_Neutraz_Angular/favicon.ico",
+        "https://Neutraz-Parkinson.github.io/landing_page_Neutraz_Angular/index.html",
+        "https://Neutraz-Parkinson.github.io/landing_page_Neutraz_Angular/main.f95abf04fec2249d.js",
+        "https://Neutraz-Parkinson.github.io/landing_page_Neutraz_Angular/manifest.webmanifest",
+        "https://Neutraz-Parkinson.github.io/landing_page_Neutraz_Angular/polyfills.d9dc496a0e0d7b3e.js",
+        "https://Neutraz-Parkinson.github.io/landing_page_Neutraz_Angular/runtime.57fb5587a308700b.js",
+        "https://Neutraz-Parkinson.github.io/landing_page_Neutraz_Angular/scripts.9f5eff07317e3890.js",
+        "https://Neutraz-Parkinson.github.io/landing_page_Neutraz_Angular/styles.d5362eb947f55bb1.css"
+      ],
+      "patterns": []
+    },
+    {
+      "name": "assets",
+      "installMode": "lazy",
+      "updateMode": "prefetch",
+      "cacheQueryOptions": {
+        "ignoreVary": true
+      },
+      "urls": [
+        "https://Neutraz-Parkinson.github.io/landing_page_Neutraz_Angular/assets/entornos/entorno1.svg",
+        "https://Neutraz-Parkinson.github.io/landing_page_Neutraz_Angular/assets/entornos/entorno2.svg",
+        "https://Neutraz-Parkinson.github.io/landing_page_Neutraz_Angular/assets/entornos/entorno3.svg",
+        "https://Neutraz-Parkinson.github.io/landing_page_Neutraz_Angular/assets/entornos/entorno4.svg",
+        "https://Neutraz-Parkinson.github.io/landing_page_Neutraz_Angular/assets/entornos/entorno5.svg",
+        "https://Neutraz-Parkinson.github.io/landing_page_Neutraz_Angular/assets/entornos/entorno6.svg",
+        "https://Neutraz-Parkinson.github.io/landing_page_Neutraz_Angular/assets/entornos/entorno7.svg",
+        "https://Neutraz-Parkinson.github.io/landing_page_Neutraz_Angular/assets/iconos/trazoB.svg",
+        "https://Neutraz-Parkinson.github.io/landing_page_Neutraz_Angular/assets/icons/icon-144x144.png",
+        "https://Neutraz-Parkinson.github.io/landing_page_Neutraz_Angular/assets/icons/icon-192x192.png",
+        "https://Neutraz-Parkinson.github.io/landing_page_Neutraz_Angular/assets/icons/icon-512x512.png",
+        "https://Neutraz-Parkinson.github.io/landing_page_Neutraz_Angular/assets/icons/icon-72x72.png",
+        "https://Neutraz-Parkinson.github.io/landing_page_Neutraz_Angular/assets/icons/icon-96x96.png",
+        "https://Neutraz-Parkinson.github.io/landing_page_Neutraz_Angular/assets/img/app-movil.jpg",
+        "https://Neutraz-Parkinson.github.io/landing_page_Neutraz_Angular/assets/img/app1.jpg",
+        "https://Neutraz-Parkinson.github.io/landing_page_Neutraz_Angular/assets/img/app2.jpg",
+        "https://Neutraz-Parkinson.github.io/landing_page_Neutraz_Angular/assets/img/park1.jpeg",
+        "https://Neutraz-Parkinson.github.io/landing_page_Neutraz_Angular/assets/img/productoP.png",
+        "https://Neutraz-Parkinson.github.io/landing_page_Neutraz_Angular/assets/personas/person_1.jpg",
+        "https://Neutraz-Parkinson.github.io/landing_page_Neutraz_Angular/assets/personas/person_2.jpg",
+        "https://Neutraz-Parkinson.github.io/landing_page_Neutraz_Angular/assets/personas/person_3.jpg",
+        "https://Neutraz-Parkinson.github.io/landing_page_Neutraz_Angular/bootstrap-icons.49c9b8524d23a4c2.woff",
+        "https://Neutraz-Parkinson.github.io/landing_page_Neutraz_Angular/bootstrap-icons.f41d849d445f6f5f.woff2",
+        "https://Neutraz-Parkinson.github.io/landing_page_Neutraz_Angular/boxicons.043adf59ff37d1cb.woff2",
+        "https://Neutraz-Parkinson.github.io/landing_page_Neutraz_Angular/boxicons.30e3c4d377f8959a.ttf",
+        "https://Neutraz-Parkinson.github.io/landing_page_Neutraz_Angular/boxicons.6b4a75b1d1e3ffac.svg",
+        "https://Neutraz-Parkinson.github.io/landing_page_Neutraz_Angular/boxicons.ea5a983e8fe53a46.woff",
+        "https://Neutraz-Parkinson.github.io/landing_page_Neutraz_Angular/park1.5ee8c2e572e7f882.jpeg"
+      ],
+      "patterns": []
+    }
+  ],
+  "dataGroups": [],
+  "hashTable": {
+    "https://Neutraz-Parkinson.github.io/landing_page_Neutraz_Angular/assets/entornos/entorno1.svg": "90a8bcf38d5fdfab6ca2fd681e2178623e422f87",
+    "https://Neutraz-Parkinson.github.io/landing_page_Neutraz_Angular/assets/entornos/entorno2.svg": "6dc7448fe93cd62e44c0aeefccb143412473d12e",
+    "https://Neutraz-Parkinson.github.io/landing_page_Neutraz_Angular/assets/entornos/entorno3.svg": "1afdd63328e925a02ab760ee688eb8ef3f48bf94",
+    "https://Neutraz-Parkinson.github.io/landing_page_Neutraz_Angular/assets/entornos/entorno4.svg": "68fd98a93fc206ba6dd11c22b1407a5c5b01af97",
+    "https://Neutraz-Parkinson.github.io/landing_page_Neutraz_Angular/assets/entornos/entorno5.svg": "17554739945364ad69aded4c08a7187916046312",
+    "https://Neutraz-Parkinson.github.io/landing_page_Neutraz_Angular/assets/entornos/entorno6.svg": "d72544640d34ef476a21aa72a07fd3af188fcfcb",
+    "https://Neutraz-Parkinson.github.io/landing_page_Neutraz_Angular/assets/entornos/entorno7.svg": "6d0b064623c3d171c97df7cbc9fe5189beb8cd6e",
+    "https://Neutraz-Parkinson.github.io/landing_page_Neutraz_Angular/assets/iconos/trazoB.svg": "95d9876cd7f441cb1dbd1f008140b3febd21a804",
+    "https://Neutraz-Parkinson.github.io/landing_page_Neutraz_Angular/assets/icons/icon-144x144.png": "7658932e4119cff04e20fdcfdde21712253d5929",
+    "https://Neutraz-Parkinson.github.io/landing_page_Neutraz_Angular/assets/icons/icon-192x192.png": "8eaec4fb0da3b9c4f5687c6cc6526d9c57f6db02",
+    "https://Neutraz-Parkinson.github.io/landing_page_Neutraz_Angular/assets/icons/icon-512x512.png": "d7c2b0998eb0dca66766196b8269a57051d604dd",
+    "https://Neutraz-Parkinson.github.io/landing_page_Neutraz_Angular/assets/icons/icon-72x72.png": "255446371e96c46d0defa291799cb2294850dcd8",
+    "https://Neutraz-Parkinson.github.io/landing_page_Neutraz_Angular/assets/icons/icon-96x96.png": "88a64718e5be9376c647ed0bbc2eee9caa5e1240",
+    "https://Neutraz-Parkinson.github.io/landing_page_Neutraz_Angular/assets/img/app-movil.jpg": "8cdf0492adce9605f382de17c9a47a9fcca6626a",
+    "https://Neutraz-Parkinson.github.io/landing_page_Neutraz_Angular/assets/img/app1.jpg": "cc64605957846c8fa46ab84a00ad96d0b4a58e90",
+    "https://Neutraz-Parkinson.github.io/landing_page_Neutraz_Angular/assets/img/app2.jpg": "a56b2514db58649c650021cee8fce4b07f4e7e03",
+    "https://Neutraz-Parkinson.github.io/landing_page_Neutraz_Angular/assets/img/park1.jpeg": "0f1d5d25bafbe38c7f97a5baff72cb6bd1652f32",
+    "https://Neutraz-Parkinson.github.io/landing_page_Neutraz_Angular/assets/img/productoP.png": "98ee92460c2f71e245671f4e9cda9d7a782664c4",
+    "https://Neutraz-Parkinson.github.io/landing_page_Neutraz_Angular/assets/personas/person_1.jpg": "e3cf06509f7329297fbc83ed367a84640fb75f57",
+    "https://Neutraz-Parkinson.github.io/landing_page_Neutraz_Angular/assets/personas/person_2.jpg": "d0d059e07c24d7a7c46f1badd843b56b55fea0db",
+    "https://Neutraz-Parkinson.github.io/landing_page_Neutraz_Angular/assets/personas/person_3.jpg": "87ee8ace93c1b65ad927fd9372ed2ddcaf8149b9",
+    "https://Neutraz-Parkinson.github.io/landing_page_Neutraz_Angular/bootstrap-icons.49c9b8524d23a4c2.woff": "cce254d50d2f744cd8f384cd4aa2a23c8850e2ee",
+    "https://Neutraz-Parkinson.github.io/landing_page_Neutraz_Angular/bootstrap-icons.f41d849d445f6f5f.woff2": "d33714cb0836ea9ebe02f4ccc22806593903167a",
+    "https://Neutraz-Parkinson.github.io/landing_page_Neutraz_Angular/boxicons.043adf59ff37d1cb.woff2": "758608b6e39cd423dd99eec3980f8e8aae0d96b0",
+    "https://Neutraz-Parkinson.github.io/landing_page_Neutraz_Angular/boxicons.30e3c4d377f8959a.ttf": "f18d97b413c192509c83c445d74b79de2f20af71",
+    "https://Neutraz-Parkinson.github.io/landing_page_Neutraz_Angular/boxicons.6b4a75b1d1e3ffac.svg": "a5828816de42e74be1f683532407f373aba7cda7",
+    "https://Neutraz-Parkinson.github.io/landing_page_Neutraz_Angular/boxicons.ea5a983e8fe53a46.woff": "0fd1f4f29e1a933f60c43e067e1decab3336ece7",
+    "https://Neutraz-Parkinson.github.io/landing_page_Neutraz_Angular/favicon.ico": "15b2f36cb24d230e8ff9512672ff82ea24cfd668",
+    "https://Neutraz-Parkinson.github.io/landing_page_Neutraz_Angular/index.html": "a9cea10237d198319fcad4b854bd663947395651",
+    "https://Neutraz-Parkinson.github.io/landing_page_Neutraz_Angular/main.f95abf04fec2249d.js": "bdcebfe16473d2d7b5497f962cab82e32b0318cd",
+    "https://Neutraz-Parkinson.github.io/landing_page_Neutraz_Angular/manifest.webmanifest": "a1d5e70036df087f05b9176f2befa634ab85e1a0",
+    "https://Neutraz-Parkinson.github.io/landing_page_Neutraz_Angular/park1.5ee8c2e572e7f882.jpeg": "0f1d5d25bafbe38c7f97a5baff72cb6bd1652f32",
+    "https://Neutraz-Parkinson.github.io/landing_page_Neutraz_Angular/polyfills.d9dc496a0e0d7b3e.js": "e7a5b39d60601c6150f25ee928e4d8d15c5e390e",
+    "https://Neutraz-Parkinson.github.io/landing_page_Neutraz_Angular/runtime.57fb5587a308700b.js": "e5c736ce7e8bbf5280493669d8cb11b99873596a",
+    "https://Neutraz-Parkinson.github.io/landing_page_Neutraz_Angular/scripts.9f5eff07317e3890.js": "c33126105c28058074978380f2172ccd047c748a",
+    "https://Neutraz-Parkinson.github.io/landing_page_Neutraz_Angular/styles.d5362eb947f55bb1.css": "8c7d5c1cda4e66482cec14e7d81898bc983e947a"
+  },
+  "navigationUrls": [
+    {
+      "positive": true,
+      "regex": "^\\/.*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*\\.[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*\\/.*$"
+    }
+  ],
+  "navigationRequestStrategy": "performance"
+}
