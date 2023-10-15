@@ -1,4 +1,5 @@
 import { Component } from '@angular/core';
+import * as AOS from 'aos';
 
 @Component({
   selector: 'app-productos',
@@ -6,5 +7,11 @@ import { Component } from '@angular/core';
   styleUrls: ['./productos.component.css']
 })
 export class ProductosComponent {
+
+  ngOnInit() {
+    AOS.init({
+      duration: 1200,
+    });
+  }
 
 }
