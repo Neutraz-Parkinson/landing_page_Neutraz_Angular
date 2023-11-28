@@ -5,4 +5,14 @@ landing page angular neutraz parkinson
 | Nombre | Versión |
 | --- | --- |
 | Angular | 16 |
-| Node | 14.16.0 |
+| Node | 16.14.0 |
+
+## Uso Docker
+#### 1. Construir los contenedores   
+```bash
+docker build -t web_neutraz .
+```
+#### 2. Iniciar los contedores
+```bash
+docker container run -p 4300:80 web_neutraz
+```
